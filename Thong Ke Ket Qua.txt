@@ -1,0 +1,18 @@
+Hoc ki		GPA		CPA
+20161		3.00		3.00
+20162		2.50		2.70
+20171		0.00		1.93
+20172		4.00		2.55
+
+So hoc phan da hoc: 4
+So tin da hoc: 10
+So tin da qua: 8
+So tin no: 2
+So hoc phan duoc A hoac A+: 1
+So hoc phan duoc B+: 0
+So hoc phan duoc B: 1
+So hoc phan duoc C+: 1
+So hoc phan duoc C: 0
+So hoc phan duoc D+: 0
+So hoc phan duoc D: 0
+So hoc phan no: 1

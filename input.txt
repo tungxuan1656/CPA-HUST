@@ -1,0 +1,11 @@
+﻿20161
+2	B	SSH1110		Những NLCB của CNML I
+20162
+3	C+	SSH1120		Những NLCB của CNML II
+20171
+2	F	SSH1050		Tư tưởng HCM
+20172
+3	A	SSH1130		Đường lối CM của ĐCSVN
+
+
+
